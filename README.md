@@ -37,7 +37,7 @@ The 'main' file is where the program runs and the graphics are implemented using
 The project has been structured in the traditional C++ style with header and cpp files being separate for 
 readability.
 
-<img width="400" alt="Screenshot 2024-03-26 at 11 10 36 PM" src="https://github.com/Jai0212/Rubiks-Cube-Solver-Using-IDA-Star/assets/86296165/e32ef818-b45e-4f1c-8ca4-7d7603ecf519">
+
 
 
 ## Usage and Requirements
